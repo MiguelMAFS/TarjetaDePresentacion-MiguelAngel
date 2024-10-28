@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+
+#carta {
+
+    box-shadow: 0 1px 8px;
+    text-align: center;
+    margin: auto;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 500px;
+    
+}
+
+h1 {
+    border-bottom: 3px solid;
+    border-color: rgb(180, 173, 109);
+
+}
+
+#texto {
+    text-align: left;
+    width: 225px;
+}
+
+#gmail {
+    height: 20px;
+    position: fixed;
+    right: 300px;
+}
+
+
